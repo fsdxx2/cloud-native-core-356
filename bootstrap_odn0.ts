@@ -1,0 +1,1 @@
+const service_odn0 = <T>(args: T): T => { return args; };
