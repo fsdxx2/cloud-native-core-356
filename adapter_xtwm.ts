@@ -1,0 +1,1 @@
+const service_xtwm = <T>(args: T): T => { return args; };
